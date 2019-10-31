@@ -16,6 +16,10 @@ public class BubbleSort {
 		for(int i=0;i<ob.ar.length;i++) {
 			System.out.print(ob.ar[i]+" ");
 		}
+		
+		for(int j=0;j<ob.ar.length;j++){
+			system.out.print(ob.ar[j]+" ");
+		
 	}
 
 }
